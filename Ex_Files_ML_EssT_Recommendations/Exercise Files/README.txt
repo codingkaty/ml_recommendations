@@ -1,4 +1,4 @@
-Structure for machine_learning_recommendations.zip
+Structure for machine_learning_recommendations
 
 Chapter 3:
 vectors pt1.py: mutliply each rating by 2.
